@@ -146,7 +146,7 @@ definitions:
         type: "string"
         description: "Estado del contribuyente"
       condDomiRuc:
-        type: "boolean"
+        type: "string"
         description: "Condición Domiciliaria del Contribuyente"
       Observaciones:
         type: "array"
