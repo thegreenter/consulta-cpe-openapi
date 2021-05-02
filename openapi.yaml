@@ -130,7 +130,7 @@ components:
         condDomiRuc:
           type: "string"
           description: "Condición Domiciliaria del Contribuyente"
-        Observaciones:
+        observaciones:
           type: "array"
           items:
             type: "string"
