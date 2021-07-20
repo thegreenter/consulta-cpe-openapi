@@ -1,6 +1,6 @@
 # Consulta CPE - OpenAPI
 
-Especificación OpenAPI de [Consulta Integrada de Comprobante de Pago](https://orientacion.sunat.gob.pe/images/imagenes/contenido/comprobantes/Manual-de-Consulta-Integrada-de-Comprobante-de-Pago-por-ServicioWEB.pdf) - SUNAT
+Especificación OpenAPI de [Consulta Integrada de Comprobante de Pago](https://cdn.www.gob.pe/uploads/document/file/536289/Manual_de_Consulta_Integrada_de_Validez_de_CdP_por_Servicio_WEB.pdf) - SUNAT
 
 <p>
   <img height="100px" src="https://static1.smartbear.co/swagger/media/assets/images/sw_ov_intro_band1_icon1.svg" alt="OpenAPI"/>
